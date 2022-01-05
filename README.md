@@ -10,7 +10,11 @@
 * 8. Mais refactoring com suporte dos testes ✓
 * 9. Implementar com TDD o método para fazer parse da Query String - parte 1 ✓
 * 10. Implementar com TDD o método para fazer parse da Query String - parte 2 ✓
-* 11. Test Coverage: descobrir o que falta testar
+* 11. Test Coverage: descobrir o que falta testar ✓
+* 12. Introdução ao Babel ✓
+* 13. Shopping Cart: Explicação sobre o que será desenvolvido
+
+
 
 
 
