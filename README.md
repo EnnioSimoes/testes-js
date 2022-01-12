@@ -12,7 +12,11 @@
 * 10. Implementar com TDD o método para fazer parse da Query String - parte 2 ✓
 * 11. Test Coverage: descobrir o que falta testar ✓
 * 12. Introdução ao Babel ✓
-* 13. Shopping Cart: Explicação sobre o que será desenvolvido
+* 13. Shopping Cart: Explicação sobre o que será desenvolvido ✓
+* 14. Shopping Cart: Criacao Cart.js e Cart.spec.js, primeiros testes e .editorconfig ✓
+* 15. Shopping Cart: Assegurar que um produto só apareça uma vez no carrinho + Lodash ✓
+* 16. Shopping Cart: Assegurar que um o valor total seja atualizado quando produto é removido
+
 
 
 
