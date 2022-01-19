@@ -18,4 +18,15 @@ export default class Cart {
       return acc + item.quantity * item.product.price;
     }, 0);
   }
+
+  remove(product) {
+    remove(this.items, {product})
+  }
+
+  checkout() {
+    return {
+      total: this.getTotal(),
+      items: this.items,
+    }
+  }
 }

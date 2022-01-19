@@ -15,7 +15,10 @@
 * 13. Shopping Cart: Explicação sobre o que será desenvolvido ✓
 * 14. Shopping Cart: Criacao Cart.js e Cart.spec.js, primeiros testes e .editorconfig ✓
 * 15. Shopping Cart: Assegurar que um produto só apareça uma vez no carrinho + Lodash ✓
-* 16. Shopping Cart: Assegurar que um o valor total seja atualizado quando produto é removido
+* 16. Shopping Cart: Assegurar que um o valor total seja atualizado quando produto é removido ✓
+* 17. Shopping Cart: Teste e implementação do metodo checkout e introdução aos snapshots ✓
+* 18. Shopping Cart: Finalizar implementação do metodo checkout
+
 
 
 
