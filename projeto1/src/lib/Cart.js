@@ -20,13 +20,27 @@ export default class Cart {
   }
 
   remove(product) {
-    remove(this.items, {product})
+    remove(this.items, { product });
+  }
+
+  sumary() {
+    const total = this.getTotal();
+    const items = this.items;
+
+    return {
+      total,
+      items,
+    };
   }
 
   checkout() {
+    const { total, items } = this.sumary();
+
+    this.items = [];
+
     return {
-      total: this.getTotal(),
-      items: this.items,
-    }
+      total,
+      items,
+    };
   }
 }
