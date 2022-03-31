@@ -23,7 +23,11 @@
 * 21. Shopping Cart: Implementação da segunda condição de desconto ✓
 * 22. Shopping Cart: Segunda condição de desconto - segundo caso de uso ✓
 * 23. Shopping Cart: Duas condições de desconto que sejam concorrentes a mais vantajosa deve prevalecer ✓
-* 24. Shopping Cart: Retornar o valor total formatado em Reais
+* 24. Shopping Cart: Retornar o valor total formatado em Reais ✓
+* 25. Shopping Cart: Pequeno refactoring e uma dica valiosa ✓
+* 26. Conteúdo teórico: por que testar?
+
+
 
 
 
