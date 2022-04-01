@@ -1,5 +1,6 @@
 # Testes em Javascript
 
+## Módulo 1
 * 1. Criação do projeto e instalação do Jest ✓
 * 2. Introdução ao Jest e criação do primeiro teste ✓
 * 3. Jest watch mode: observar alterações nos arquivos ✓
@@ -25,7 +26,12 @@
 * 23. Shopping Cart: Duas condições de desconto que sejam concorrentes a mais vantajosa deve prevalecer ✓
 * 24. Shopping Cart: Retornar o valor total formatado em Reais ✓
 * 25. Shopping Cart: Pequeno refactoring e uma dica valiosa ✓
-* 26. Conteúdo teórico: por que testar?
+* 26...32 Conteúdo Teórico
+
+## Módulo 2
+* 33. Módulo 2 - Instalação do Nuxt ✓
+* 34. Módulo 2 - Overview das pastas e arquivos do projeto
+
 
 
 
